@@ -1,17 +1,17 @@
-# Tech Challenge
+﻿# Tech Challenge
 
-## ?? Objetivo
+## 🎯 Objetivo
 Descrever o problema
 
-## ?? Base de Dados
-Descrever origem e vari�veis
+## 📊 Base de Dados
+Descrever origem e variáveis
 
-## ?? An�lise Explorat�ria (EDA)
+## 🔍 Análise Exploratória (EDA)
 Principais insights
 
-## ?? Metodologia
+## ⚙️ Metodologia
 
-### Pr�-processamento
+### Pré-processamento
 - Limpeza
 - Tratamento de nulos
 - Encoding
@@ -20,13 +20,13 @@ Principais insights
 - Modelo baseline
 - Modelo final
 
-## ?? Resultados
-M�tricas e avalia��o
+## 📈 Resultados
+Métricas e avaliação
 
-## ?? Como reproduzir
+## 🚀 Como reproduzir
 
 pip install -r ../../requirements.txt
 jupyter notebook
 
-## ?? Conclus�o
+## 📌 Conclusão
 Resumo final

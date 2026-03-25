@@ -1,20 +1,20 @@
-# AI Scientist - FIAP
+﻿# AI Scientist - FIAP
 
-Reposit�rio contendo os Tech Challenges do curso AI Scientist (FIAP).
+Repositório contendo os Tech Challenges do curso AI Scientist (FIAP).
 
-## ?? Estrutura
+## 📂 Estrutura
 
-Cada Tech Challenge est� organizado em:
+Cada Tech Challenge está organizado em:
 - data/
 - notebooks/
 - src/
 - models/
 - reports/
 
-## ?? Como reproduzir
+## 🚀 Como reproduzir
 
 pip install -r requirements.txt
 jupyter notebook
 
-## ?? Autor
+## 👤 Autor
 Andre Palermo
